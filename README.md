@@ -1,4 +1,5 @@
-#Verificación basado en SMS
+# Verificación basado en SMS
+
 Google Play services tiene dos APIs que se pueden usar para agilizar el proceso de verificación basado en SMS: `SMS Retriever API` y el `SMS User Consent API`
 
 El `SMS Retriever API` provee un una experiencia totalmente automática y debe ser usada en la medida de lo posible. Este flujo requiere que se coloque un código en el cuerpo del mensaje, esto puede ser algo dificil si no somos o no tenemos el control de quien envía ese mensaje.
