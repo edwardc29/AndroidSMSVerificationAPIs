@@ -8,7 +8,7 @@ Si no tenemos control sobre el contenido del mensaje-por ejemplo, si la aplicaci
 
 Resumen de diferencias resumidas en la siguiente tabla:
 
- | SMS Retriever | SMS User Consent
+Description | SMS Retriever | SMS User Consent
 ------|---------------|-----------------
 Requerimientos del mensaje | 11 dígitos | código de 4-10 dígitos alfanumérico con al menos un número
 Requerimientos del emisor | Ninguno | Emisor no puede estar en la lista de contactos del usuario
